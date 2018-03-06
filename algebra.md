@@ -38,8 +38,7 @@ R jest ciałem wtedy i tylko wtedy gdy:
 
 
 ### Zespolone
-liczby będące elementami rozszerzenia ciała liczb rzeczywistych o jednostkę urojoną i, to znaczy pierwiastek wielomianu x ** 2 + 1
-
+liczby będące elementami rozszerzenia ciała liczb rzeczywistych o jednostkę urojoną i
 #### Postac algebraiczna
 z = a + bi
 gdzie i**2 == -1 - czesc rzeczywista czesc urojona
